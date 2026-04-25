@@ -44,11 +44,11 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-OWNER_ID = 8710308658
-ADMIN_ID = 8710308658
-YOUR_USERNAME = '@codevexa'
-UPDATE_CHANNEL = '@Toxicadminn'
+TOKEN = ''
+OWNER_ID = 6668216117
+ADMIN_ID = 6668216117
+YOUR_USERNAME = '@Rezearc123'
+UPDATE_CHANNEL = '@Rezearc123'
 
 # Folder setup - using absolute paths
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
